@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "09e3a6c7c63f04e6",
+    "id": "24f8a3b851cec5ab",
     "type": "split",
     "children": [
       {
-        "id": "83e84dc19c8b615f",
+        "id": "dc14e04d9ffe342e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing.md",
-            "mode": "source"
+            "file": "knowledge/Science/Math/Linear Algebra/1-Vectors & Matrices.md",
+            "mode": "preview"
           }
         }
       }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a2dbc91a0f1af7e8",
+    "id": "2af2d1a2eab6459d",
     "type": "split",
     "children": [
       {
-        "id": "b0d9820f9375e59e",
+        "id": "9705b481efcf34a8",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e88fe6252b2d03",
+            "id": "38bca5937249bcd4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "ba95a80d9cbb46cf",
+            "id": "78a535991f1989a3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "data sci",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,46 +48,28 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "a53ace635ad5550c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "595661662340af4c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Writing.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 421
+    "width": 300
   },
   "right": {
-    "id": "7354867e4c33948d",
+    "id": "6fa782ac0f5b0270",
     "type": "split",
     "children": [
       {
-        "id": "2bb1b96877e44b59",
+        "id": "6f1fb7bd1a2829c7",
         "type": "tabs",
         "children": [
           {
-            "id": "cfe9625ba93fb0c7",
+            "id": "afdb1c7f62c830d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing.md",
+                "file": "knowledge/Science/Math/Linear Algebra/1-Vectors & Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,73 +79,12 @@
             }
           },
           {
-            "id": "53ff88ec946160ee",
+            "id": "77f0d89421ec5680",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ef998b5ee31bcd4c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef1c257a8695f9bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5cd425b59a9e41a6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c7946af121994717",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19ae04b0ff95efd9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Writing.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6989606412938237
-                }
+                "file": "knowledge/Science/Math/Linear Algebra/1-Vectors & Matrices.md"
               }
             }
           }
@@ -171,19 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420,
+    "width": 300,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Writing.md",
-    "Tensor Decomposition.md",
-    "Statistics.md",
-    "Startup.md",
-    "Software Engineering.md",
-    "Singular Value Decomposition.md",
-    "Research.md",
-    "PyTorch.md",
-    "Productivity.md",
-    "Privacy.md"
+    "knowledge/Science/Math/Linear Algebra/1-Vectors & Matrices.md",
+    "knowledge/CS/Quantum Computing/1-Quantum Computing.md",
+    "knowledge/Science/Math/Algebra/Complex Numbers & Complex Exponentials.md",
+    "knowledge/CS/Quantum Computing/2-Quantum Superposition.md",
+    "knowledge/Science/Math/Algebra/Complex Numbers.md",
+    "knowledge/CS/Quantum Computing/4-Quantum Interference.md",
+    "Untitled.md",
+    "knowledge/Science/Math/CS/Quantum Computing/1-Quantum Computing.md",
+    "knowledge/Science/Math/CS/Quantum Computing/2-Quantum Superposition.md",
+    "knowledge/Science/Math/CS/Quantum Computing/3-Quantum Entanglement.md"
   ]
 }

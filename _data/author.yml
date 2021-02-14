@@ -1,6 +1,6 @@
 name: "Abdulaziz M. Al-Dakheel"
 description: >
-    is an High School Student, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
+    is an Senior High School Student, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
 
 email: ml.3z@outlook.com
 links:
@@ -42,4 +42,4 @@ links:
 
 news:
     - date: 2020-02-14
-      description: Studying [Quantum Computing 25-week Course] (https://www.qubitbyqubit.org/programs).
+      description: Studying <a href="https://www.qubitbyqubit.org/programs">Quantum Computing 25-week Course</a>.
