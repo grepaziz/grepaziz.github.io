@@ -1,16 +1,7 @@
 ## Studies
 
-### Winter 2021
+### 2020 -2021
 
-Mazen will be a Teaching Assistance (TA) for ANALYSIS OF ALGORITHMS (CS 325), and he will be taking the following courses:
+Abdulaziz admire mathematics so he Tooks Many Courses in the field of Artificial intelligence to apply math that he loves, he took some supervised, unspervised, and deep learning algorithms,then he made projects in every type of learning, you can check them [here](https://github.com/grepaziz).
 
-* ST/ARTIFICIAL INTELLIGENCE: ST/NAT LANG PROC W/ DP LEARNIN (CS 539)
-* SPECIAL TOPICS: ST/MATRIX ANSYS SIG PROC & MAC (ECE 599)
-
-### Fall 2020
-
-Mazen will be a Teaching Assistance (TA) for INTRODUCTION TO DATABASES (CS 340), and he will be taking the following courses:
-
-* TOPICS IN GRAPHICS AND VISION: ST/ DIGITAL IMAGE PROCESSING (CS 559)
-* CONVEX OPTIMIZATION (ECE 599)
-* MACHINE LEARNING (CS 534)
+Abdulaziz is Foucsing on trying as many Computer science fields as possible before joining college, especially fields that envolves math and physics, that's why he jumped into 25-week long [Quanutm Computing course](https://www.qubitbyqubit.org/programs) at October-2020.

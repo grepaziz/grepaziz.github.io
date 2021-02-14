@@ -1,10 +1,10 @@
-title: "sudomaze.dev"
-profile_pic: /assets/img/profile.webp
-favicon: /assets/img/profile.webp
-url: "https://sudomaze.dev"
-repository: "sudomaze/sudomaze.github.io"
+title: "3ziz.xyz"
+profile_pic: /assets/img/3z.jpg
+favicon: /assets/img/3z.jpg
+url: "https://3ziz.xyz"
+repository: "grepaziz/grepaziz.github.io"
 disqus:
-    shortname: "sudomaze"
+    shortname: "grepaziz"
     public_key: "xlagUgR5BxVFA7EduSkai8EPtVJopAosMcsY4UUHFevX39IsnZNFZepznkfgMKUo"
 
 head_scripts:

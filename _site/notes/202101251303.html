@@ -3,33 +3,33 @@
     <head>
   <meta content="width=device-width, initial-scale=1" name="viewport" />
 <meta
-    content="Mazen Alotaibi is an M.S. student under the supervision of Prof. Fuxin Li at Deep Machine Vision (DMV) at Oregon State University (OSU). He is interested in Computer Vision, Deep Learning, and Data Science.
+    content="Abdulaziz M. Al-Dakheel is an High School Studnet, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
 "
     name="description"
 />
 <meta content="" property="og:site_name" />
 <meta
-    content="Mazen Alotaibi is an M.S. student under the supervision of Prof. Fuxin Li at Deep Machine Vision (DMV) at Oregon State University (OSU). He is interested in Computer Vision, Deep Learning, and Data Science.
+    content="Abdulaziz M. Al-Dakheel is an High School Studnet, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
 "
     property="og:description"
 />
-<meta content="https://sudomaze.dev/about/" property="article:author" />
+<meta content="https://3ziz.xyz/about/" property="article:author" />
 
-<title>sudomaze.dev</title>
+<title>3ziz.xyz</title>
 
 
 <meta content="[D] Pytorch Performance guide" property="og:title" />
 <meta content="article" property="og:type" />
-<meta content="https://sudomaze.dev/notes/202101251303" property="og:url" />
+<meta content="https://3ziz.xyz/notes/202101251303" property="og:url" />
 
 <link
     rel="icon"
-    href="/assets/img/profile.webp"
+    href="/assets/img/3z.jpg"
     type="image/png"
     sizes="16x16"
 />
 <link rel="canonical" href="" />
-<link rel="apple-touch-icon" href="/assets/img/profile.webp" />
+<link rel="apple-touch-icon" href="/assets/img/3z.jpg" />
 
 
 
@@ -41,10 +41,12 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="summary Dataloader: Use num_workers &gt; 0 and pin_memory=True For CNNs enable cuDNN autotuner: torch.backends.cudnn.benchmark=True Max out batch_size on your GPU Set bias=False in Conv layers if they are followed by BatchNorm (Damn, this makes perfect sense). Instead of model.zero_grad() use for param in model.parameters(): param.grad = None Disable debug APIs if you don&#39;t need them Use DistributedDataParallel instead of DataParallel Use Apex - Don&#39;t use apex, and use the native pytorch automatic mixed precision instead - Apex is still useful for data parallel training though. - Some more under the hood stuff. #RL: [[PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA]] PYTORCH PERFORMANCE TUNING GUIDE PyTorch Lightning" />
 <meta property="og:description" content="summary Dataloader: Use num_workers &gt; 0 and pin_memory=True For CNNs enable cuDNN autotuner: torch.backends.cudnn.benchmark=True Max out batch_size on your GPU Set bias=False in Conv layers if they are followed by BatchNorm (Damn, this makes perfect sense). Instead of model.zero_grad() use for param in model.parameters(): param.grad = None Disable debug APIs if you don&#39;t need them Use DistributedDataParallel instead of DataParallel Use Apex - Don&#39;t use apex, and use the native pytorch automatic mixed precision instead - Apex is still useful for data parallel training though. - Some more under the hood stuff. #RL: [[PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA]] PYTORCH PERFORMANCE TUNING GUIDE PyTorch Lightning" />
+<link rel="canonical" href="http://localhost:4000/notes/202101251303" />
+<meta property="og:url" content="http://localhost:4000/notes/202101251303" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-01-25T00:00:00-08:00" />
+<meta property="article:published_time" content="2021-01-25T00:00:00+03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/notes/202101251303"},"@type":"BlogPosting","url":"/notes/202101251303","headline":"[D] Pytorch Performance guide","dateModified":"2021-01-25T00:00:00-08:00","datePublished":"2021-01-25T00:00:00-08:00","description":"summary Dataloader: Use num_workers &gt; 0 and pin_memory=True For CNNs enable cuDNN autotuner: torch.backends.cudnn.benchmark=True Max out batch_size on your GPU Set bias=False in Conv layers if they are followed by BatchNorm (Damn, this makes perfect sense). Instead of model.zero_grad() use for param in model.parameters(): param.grad = None Disable debug APIs if you don&#39;t need them Use DistributedDataParallel instead of DataParallel Use Apex - Don&#39;t use apex, and use the native pytorch automatic mixed precision instead - Apex is still useful for data parallel training though. - Some more under the hood stuff. #RL: [[PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA]] PYTORCH PERFORMANCE TUNING GUIDE PyTorch Lightning","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","headline":"[D] Pytorch Performance guide","dateModified":"2021-01-25T00:00:00+03:00","datePublished":"2021-01-25T00:00:00+03:00","url":"http://localhost:4000/notes/202101251303","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/notes/202101251303"},"description":"summary Dataloader: Use num_workers &gt; 0 and pin_memory=True For CNNs enable cuDNN autotuner: torch.backends.cudnn.benchmark=True Max out batch_size on your GPU Set bias=False in Conv layers if they are followed by BatchNorm (Damn, this makes perfect sense). Instead of model.zero_grad() use for param in model.parameters(): param.grad = None Disable debug APIs if you don&#39;t need them Use DistributedDataParallel instead of DataParallel Use Apex - Don&#39;t use apex, and use the native pytorch automatic mixed precision instead - Apex is still useful for data parallel training though. - Some more under the hood stuff. #RL: [[PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA]] PYTORCH PERFORMANCE TUNING GUIDE PyTorch Lightning","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -1711,18 +1713,18 @@ iframe {
 
   <script async>
     var disqusPublicKey = "xlagUgR5BxVFA7EduSkai8EPtVJopAosMcsY4UUHFevX39IsnZNFZepznkfgMKUo",
-      disqusShortname = "sudomaze",
-      siteUrl = "https://sudomaze.dev",
+      disqusShortname = "grepaziz",
+      siteUrl = "https://3ziz.xyz",
       pageUrl = "/notes/202101251303",
       pagePath = "_notes/202101251303.md",
-      githubRepo = "sudomaze/sudomaze.github.io",
+      githubRepo = "grepaziz/grepaziz.github.io",
       layoutDiscussion = false;
   </script>
 
   
 
   <!-- linking xml file -->
-  <link rel="alternate" type="application/rss+xml" href="https://sudomaze.dev/feed.xml">
+  <link rel="alternate" type="application/rss+xml" href="https://3ziz.xyz/feed.xml">
 </head>
     <body>
         
@@ -1732,7 +1734,7 @@ iframe {
     <div class="dashboard disable-select">
         <div class="site-heading profile-board-col">
             <h4 class="medium">
-                <a href="/">sudomaze.dev</a> |
+                <a href="/">3ziz.xyz</a> |
                 <i id="theme-toggle" onclick="modeSwitcher()" class="far"></i>
             </h4>
         </div>
@@ -1740,12 +1742,12 @@ iframe {
             <div class="username">
                 <p class="title-sans">
                     <a href="/" style="text-decoration: none"
-                        >Mazen Alotaibi</a
+                        >Abdulaziz M. Al-Dakheel</a
                     >
                 </p>
             </div>
             <div class="userdesc">
-                <p class="title-sans">is an M.S. student under the supervision of <a href="http://web.engr.oregonstate.edu/~lif/">Prof. Fuxin Li</a> at Deep Machine Vision (DMV) at Oregon State University (OSU). He is interested in Computer Vision, Deep Learning, and Data Science.
+                <p class="title-sans">is an High School Studnet, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
 </p>
             </div>
             <ul class="socials">
@@ -1755,7 +1757,7 @@ iframe {
                         class="fab fa-twitter"
                         style="color: #1DA1F2"
                     ></i>
-                    <a href="https://twitter.com/sudomaze">@sudomaze</a>
+                    <a href="https://twitter.com/3z_ALD5">@3z_ALD5</a>
                 </li>
                 
                 <li>
@@ -1763,7 +1765,7 @@ iframe {
                         class="fab fa-github"
                         style="color: #24292E"
                     ></i>
-                    <a href="https://github.com/sudomaze">@sudomaze</a>
+                    <a href="https://github.com/grepaziz">@grepaziz</a>
                 </li>
                 
                 <li>
@@ -1771,7 +1773,7 @@ iframe {
                         class="fab fa-twitch"
                         style="color: #9147FF"
                     ></i>
-                    <a href="https://twitch.tv/sudomaze">ttv/sudomaze</a>
+                    <a href="https://twitch.tv/grepaziz">ttv/grepaziz</a>
                 </li>
                 
                 <li>
@@ -1779,7 +1781,7 @@ iframe {
                         class="fab fa-linkedin"
                         style="color: #0077B5"
                     ></i>
-                    <a href="https://linkedin.com/in/sudomaze">in/sudomaze</a>
+                    <a href="https://www.linkedin.com/in/abdulaziz-m-aldakheel-55163518a/">in/Abdulaziz</a>
                 </li>
                 
                 <li>
@@ -1787,7 +1789,7 @@ iframe {
                         class="fab fa-kaggle"
                         style="color: #35B3E0"
                     ></i>
-                    <a href="https://www.kaggle.com/sudomaze">@sudomaze</a>
+                    <a href="https://www.kaggle.com/i3zoozee">@i3zoozee</a>
                 </li>
                 
                 <li>
@@ -1795,7 +1797,7 @@ iframe {
                         class="fab fa-reddit"
                         style="color: #FF4500"
                     ></i>
-                    <a href="https://www.reddit.com/user/sudomaze/">u/sudomaze</a>
+                    <a href="https://www.reddit.com/user/3z_ald/">u/3z_ald</a>
                 </li>
                 
             </ul>
@@ -1805,7 +1807,7 @@ iframe {
         <a class="avatar-link" href="/">
             <img
                 loading="lazy"
-                src="/assets/img/profile.webp"
+                src="/assets/img/3z.jpg"
                 class="avatar-img"
                 alt="avatar"
             />
@@ -1893,7 +1895,7 @@ iframe {
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: '<li class="search_res" style="list-style: none;"><a href="https://sudomaze.dev{url}" style="text-decoration: none; color: #555555;"><p style="font-size: 1.0rem; font-family: "Inter !important"; font-weight: 600;">{title}</p></a></li>',
+        searchResultTemplate: '<li class="search_res" style="list-style: none;"><a href="https://3ziz.xyz{url}" style="text-decoration: none; color: #555555;"><p style="font-size: 1.0rem; font-family: "Inter !important"; font-weight: 600;">{title}</p></a></li>',
         noResultsText: 'No results found',
         fuzzy: false,
         limit: 4
@@ -1996,12 +1998,12 @@ TUNING GUIDE</a></li>
          *RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
          *LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
         var disqus_config = function () {
-        this.page.url = '/notes/202101251303';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = '/notes/202101251303'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.url = 'http://localhost:4000/notes/202101251303';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'http://localhost:4000/notes/202101251303'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
         };
         (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
-        s.src = 'https://sudomaze.disqus.com/embed.js';
+        s.src = 'https://grepaziz.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
         })();
@@ -2010,7 +2012,7 @@ TUNING GUIDE</a></li>
 
         <hr style="margin-top: 0" />
         <div id="copyright">
-    <p id="copyright-notice">© Mazen Alotaibi</p>
+    <p id="copyright-notice">© Abdulaziz M. Al-Dakheel</p>
 </div>
     </div>
     <button class="scroll-to-top" id="scroll-to-top" title="scroll-btn">

@@ -6,6 +6,9 @@ permalink: /projects
 {% assign categories_grouped = site.pages | group_by: 'category' %} {% for
 category in categories_grouped %} {% if category.name == "project" %} {% assign
 sorted = category.items | sort: 'date' | reverse %} {% for item in sorted %}
+<!--{{{{{{Remove comment for relaunching Projects}}}}}}
+
+
 <a href="{{item.url}}" style="text-decoration: none; color: #555555">
     <div
         class="feed-title-excerpt-block disable-select"
@@ -28,4 +31,5 @@ sorted = category.items | sort: 'date' | reverse %} {% for item in sorted %}
         </p>
     </div>
 </a>
+-->
 {% endfor %} {% endif %} {% endfor %}

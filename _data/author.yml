@@ -1,47 +1,45 @@
-name: "Mazen Alotaibi"
+name: "Abdulaziz M. Al-Dakheel"
 description: >
-    is an M.S. student under the supervision of <a href="http://web.engr.oregonstate.edu/~lif/">Prof. Fuxin Li</a>
-    at Deep Machine Vision (DMV) at Oregon State University (OSU). He is interested in Computer Vision, Deep Learning,
-    and Data Science.
+    is an High School Studnet, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
 
-email: sudomaze@gmail.com
+email: ml.3z@outlook.com
 links:
     - label: "Twitter"
       icon: "fab fa-twitter"
       color: "#1DA1F2"
-      text: "@sudomaze"
-      url: "https://twitter.com/sudomaze"
+      text: "@3z_ALD5"
+      url: "https://twitter.com/3z_ALD5"
 
     - label: "GitHub"
       icon: "fab fa-github"
       color: "#24292E"
-      text: "@sudomaze"
-      url: "https://github.com/sudomaze"
+      text: "@grepaziz"
+      url: "https://github.com/grepaziz"
 
     - label: "Twitch"
       icon: "fab fa-twitch"
       color: "#9147FF"
-      text: "ttv/sudomaze"
-      url: "https://twitch.tv/sudomaze"
+      text: "ttv/grepaziz"
+      url: "https://twitch.tv/grepaziz"
 
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       color: "#0077B5"
-      text: "in/sudomaze"
-      url: "https://linkedin.com/in/sudomaze"
+      text: "in/Abdulaziz"
+      url: "https://www.linkedin.com/in/abdulaziz-m-aldakheel-55163518a/"
 
     - label: "Kaggle"
       icon: "fab fa-kaggle"
       color: "#35B3E0"
-      text: "@sudomaze"
-      url: "https://www.kaggle.com/sudomaze"
+      text: "@i3zoozee"
+      url: "https://www.kaggle.com/i3zoozee"
 
     - label: "Reddit"
       icon: "fab fa-reddit"
       color: "#FF4500"
-      text: "u/sudomaze"
-      url: "https://www.reddit.com/user/sudomaze/"
+      text: "u/3z_ald"
+      url: "https://www.reddit.com/user/3z_ald/"
 
 news:
     - date: 2020-02-15
-      description: Got admitted to the Master's Program at Oregon State University for Fall 2020.
+      description: Studying Quantum Computing 25-week Course https://www.qubitbyqubit.org/programs.
