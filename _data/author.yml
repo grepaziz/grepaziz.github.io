@@ -16,6 +16,12 @@ links:
       text: "@grepaziz"
       url: "https://github.com/grepaziz"
 
+    - label: "Discord"
+      icon: "fab fa-discord"
+      color: "#5865F2"
+      text: "3z#5566"
+      url: "https://discord.com/users/273128446492934144"
+
     - label: "Twitch"
       icon: "fab fa-twitch"
       color: "#9147FF"
@@ -42,4 +48,4 @@ links:
 
 news:
     - date: 2021-06-30
-      description: Revisiting precalculus topics to Build deep understanding of the fundamentals, before diving more into Calculus, Linear Algebra, and Probability & Statistics. (Also trying to complete the Quantum Computing Notes)
+      description: Revisiting precalculus topics to Build deep understanding before diving more into Calculus, Linear Algebra, and Probability & Statistics. (Also trying to complete the Quantum Computing Notes).
