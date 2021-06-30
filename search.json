@@ -1,0 +1,111 @@
+[
+  
+    {
+
+      "title"    : "How I managed my time effectively",
+      "url"      : "/posts/test",
+      "content"  : "Rules\n\nI try to follow these rules:\n\nTime-blocks\n\n\n  Session (50/10): I typically work/study for 50 minutes where I work on one thing for the entire time. There isn't anything important in life besides this one thing. If life interrupt me, I will try to stop the interuption and try to get back to my zone at soon as possible. After the completion of the 50 minutes, I will take a break for 10 minutes where I will be standing and walking the majority of the time. I usually do life tasks (e.g. washing dishes, making coffee, throw trashes, etc.) then I will check my phone for messages real quick without checking any of my socials.\n  Block (6/1): Every block has 6 sessions and 1 long break. For the sessions, I can have combine two sessions if I am excited in continue what I work on and I feel that I am close by of completion and I know for sure that I have some gas to continue the same quality of work if I took break.\n\n\nTypical day\n\n\n  5:00-6:00am: Morning Routine\n  6:00-12:00pm: Deep Work 1\n  12:00-1:00pm: Lunch (break)\n  1:00-7:00pm: Deep Work 2\n  7:00-9:00pm: Night Routine"
+
+    },
+  
+  
+    {
+
+      "title"    : "Discriminative Appearance Modeling with Multi-track Pooling for Real-time Multi-object Tracking",
+      "url"      : "/publications/gabor",
+      "content"  : "Abstract"
+
+    },
+  
+  
+    {
+
+      "title"    : "Pre-trained Image Classifier to Identify Dog Breeds",
+      "url"      : "/projects/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds",
+      "content"  : "Description\nWriting a python script to identify different dog breeds by using three pre-trained image classifiers.\n\nGithub Link"
+
+    },
+  
+    {
+
+      "title"    : "Image Classifier Pytorch",
+      "url"      : "/projects/Image-Classifier-Pytorch",
+      "content"  : "Description\n\nCreating image classifier application, by building neural network to identify flowers type using Pytorch\n\nGithub Link"
+
+    },
+  
+    {
+
+      "title"    : "Find Donors for CharityML",
+      "url"      : "/projects/Find-Donors-for-CharityML",
+      "content"  : "Description\n\nCharityML is a fictitious charity organization that was established to provide financial support for people eager to learn machine learning, the goal is to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent to ask for donations using Sklearn.\n\nGithub Link"
+
+    },
+  
+    {
+
+      "title"    : "Image Classifier-TF",
+      "url"      : "/projects/Image-Classifier-TF",
+      "content"  : "Description\nCreating image classifier application, by building neural network to identify flowers type using TensorFlow.\n\nGithub Link"
+
+    },
+  
+    {
+
+      "title"    : "Identify Customer Segments",
+      "url"      : "/projects/Identify-Customer-Segments",
+      "content"  : "Description\n\nWorked with unsupervised learning techniques to see if any similarities exist between customers and use those similarities to segment customers into distinct categories using various clustering techniques using Sklearn This segmentation is used to help the business make more informed marketing and product decisions.\n\nGithub Link"
+
+    },
+  
+
+  
+    {
+
+      "title"    : "Software Engineering",
+      "url"      : "/notes/Software-Engineering",
+      "content"  : ""
+
+    },
+  
+    {
+
+      "title"    : "Quantum Superposition",
+      "url"      : "/notes/2-Quantum-Superposition",
+      "content"  : "Superposition^5ddcd3Superposition is the property of quantum object where the can be in two states in the same time(the cat is dead and alive )and it is one of the most important property of Quantum Computing which will enhance the computing taskSuperposition on Bitsa bit can be $\\left|0\\right&gt;$ and $\\left|1\\right&gt;$ at the same time!this is how it we show it: $\\left|ψ\\right&gt; = α\\left|0\\right&gt; + β\\left|1\\right&gt;$where:α is the probability of being in the 0 state.β is the probability of being in the 1 state.measurmentqubit: $\\left|ψ\\right&gt; = α\\left|0\\right&gt; + β\\left|1\\right&gt;$measurment collapses the quantum state of the qubit |ψ&gt; to either |0&gt; or |1&gt;the prob of measuring |0&gt; : $|α|^{2}$the prob of measuring |1&gt; : $|β|^{2}$and $|α|^{2} + |β|^{2} = 1$Example                              50-50 superposition of 0 and 1: $\\left          ψ\\right&gt; = \\sqrt{0.5}\\left          0\\right&gt; + \\sqrt{0.5}\\left          1\\right&gt;$                                                $P(\\left          0\\right&gt;) =          α          ^{2} =          0.5          ^{2} = 0.5$                          $P(\\left          1\\right&gt;) =          β          ^{2} =          0.5          ^{2} = 0.5$                                                  90-10 superposition of 0 and 1: $\\left          ψ\\right&gt; = \\sqrt{0.9}\\left          0\\right&gt; + \\sqrt{0.1}\\left          1\\right&gt;$                                                $P(\\left          0\\right&gt;) =          α          ^{2} =          0.9          ^{2} = 0.9$                          $P(\\left          1\\right&gt;) =          β          ^{2} =          0.1          ^{2} = 0.1$"
+
+    },
+  
+    {
+
+      "title"    : "Quantum Entanglement",
+      "url"      : "/notes/3-Quantum-Entanglement",
+      "content"  : "Quantum EntanglementQuantum Correlation between q object where the quantum state of an object will depend on another regardless of how far apart they are, and vice versa.\\            Entangled State: $\\left      ψ\\right&gt; = \\sqrt{0.5}\\left      00\\right&gt; + \\sqrt{0.5}\\left      11\\right&gt;$                  if we measure $\\left      ψ\\right&gt;$              * we get $\\left      00\\right&gt;$ with 50% Probability              * we get $\\left      11\\right&gt;$ with 50% Probability      But what if i measure qubit A only                              if qubit A is 0 $\\rightarrow$ then quantum state of qubit B is immediately set to $\\left          0\\right&gt;$                      if qubit A is 1 $\\rightarrow$ then quantum state of qubit B is immediately set to $\\left|1\\right&gt;$Regardless of how apart the are even if they far light years away!Application of Entanglement  Quantum Teleportation Transferring information or matter from one point to another without physically moving things!  Quantum Cryptography  Superdense Coding  Quantum SpeedupsHow to Create Quantum Entanglement?![[Pasted image 20210206201218.png]](((((((Lecture #2)))))))"
+
+    },
+  
+    {
+
+      "title"    : "Quantum Interference",
+      "url"      : "/notes/4-Quantum-Interference",
+      "content"  : "Quantum Interferencewhere two Q obejcts will interact with each other and either cancel each other or amplify one another, same as we see in waves.(((((((Lecture #2)))))))"
+
+    },
+  
+    {
+
+      "title"    : "Quantum Gates",
+      "url"      : "/notes/5-Quantum-Gates",
+      "content"  : "Quantum GatesQuantum Gates used to make Quantum Computations same as classical computing(bits and gates= Everything)but quantum gates must be reversible.Pauli-X(X-gate)X(or $\\sigma^{2}$ ): Flips the bit$X(\\left|0\\right&gt;) \\rightarrow \\left|1\\right&gt;$ $X(\\left|1\\right&gt;) \\rightarrow \\left|0\\right&gt;$ matrix:$\\begin{bmatrix}0 &amp; 1\\1 &amp; 0\\end{bmatrix}$Pauli-Z (Z-gate)Z(or $\\sigma^{z}$ ): Phase Gate$Z(\\left|0\\right&gt;) \\rightarrow \\left|0\\right&gt;$ $Z(\\left|1\\right&gt;) \\rightarrow \\left|-1\\right&gt;$ matrix:$\\begin{bmatrix}1 &amp; 0\\0 &amp; -1\\end{bmatrix}$## Hadamard(H) Creates a 50-50 Superposition From $\\left|0\\right&gt;$ and $\\left|1\\right&gt;$$H(\\left|0\\right&gt;) \\rightarrow \\frac{\\sqrt{0.5}\\left|0\\right&gt; + \\sqrt{0.5}\\left|1\\right&gt;}{\\sqrt{2}}$$H(\\left|1\\right&gt;) \\rightarrow \\frac{\\sqrt{0.5}\\left|0\\right&gt; - \\sqrt{0.5}\\left|1\\right&gt;}{\\sqrt{2}}$matrix:$\\frac{1}{\\sqrt{2}}\\begin{bmatrix}1 &amp; 1\\1 &amp; -1\\end{bmatrix}$Applying Quantum gateswe can apply Quantum Gates in Two ways      separately        in parallel              $X(\\left      0\\right&gt;) \\rightarrow \\left      1\\right&gt;$                     $X(\\left      1\\right&gt;) \\rightarrow \\left      0\\right&gt;$                     $X\\left      ψ\\right&gt; = X(α\\left      0\\right&gt; + β\\left      1\\right&gt;)$              $=α(X\\left      0\\right&gt;) + β(X\\left      1\\right&gt;)$                     $=α\\left      1\\right&gt; + β\\left      0\\right&gt;$             Example$Z(\\frac{\\left|0\\right&gt; + \\left|1\\right&gt;}{\\sqrt{2}})$$=\\frac{Z\\left|0\\right&gt; + Z\\left|1\\right&gt;}{\\sqrt{2}}$$=\\frac{\\left|0\\right&gt; - \\left|1\\right&gt;}{\\sqrt{2}}$![[500px-Quantum_Logic_Gates 1.png]]"
+
+    },
+  
+    {
+
+      "title"    : "Quantum Computing",
+      "url"      : "/notes/1-Quantum-Computing",
+      "content"  : "[[Computer Science]] [[Math]] [[physics]]Prerequisites  [[1-Vectors &amp; Matrices]]  [[1-Complex Numbers &amp; Complex Exponentials]]  [[pands]]    1- Quantum Computing    LATTTTEEEER  Quantum Properites that enhance the computing task![[Pasted image 20210205183033.png]]## [[2-Quantum Superposition]]Superposition is the property of quantum object where the can be in two states in the same time(the cat is dead and alive )and it is one of the most important property of Quantum Computing which will enhance the computing task[[3-Quantum Entanglement]]Quantum Correlation between q object where the quantum state of an object will depend on another regardless of how far apart they are, and vice versa.[[4-Quantum Interference]]where two Q obejcts will interact with each other and either cancel each other or amplify one another, same as we see in waves.Quantum Bits{not Completed X}![[Pasted image 20210205183519.png]]  Classical Bits: 0, 1(off, on)                              Quantum Bits: $\\left          0\\right&gt;, \\left          1\\right&gt;$                                                  ket notaiton( $\\left          n\\right&gt;$ ): ket notation is the thing that indicate that we are talking in quantum not classical                                                  bra notation($\\left&lt;n\\right          $)LATER                                                  $\\left          0\\right&gt; = \\begin{pmatrix} 1 \\ 0 \\end{pmatrix}, \\left          1\\right&gt; = \\begin{pmatrix} 0 \\ 1 \\end{pmatrix}$                                                  bra$\\left&lt;0\\right          = \\begin{pmatrix} 1 &amp; 0 \\end{pmatrix}, \\left&lt;1\\right          = \\begin{pmatrix} 0 &amp; 1 \\end{pmatrix}$                    Quantum GatesQuantum Gates used to make Quantum Computations same as classical computing(bits and gates= Everything)but quantum gates must be reversible.Pauli-X(X-gate)X(or $\\sigma^{2}$ ): Flips the bit$X(\\left|0\\right&gt;) \\rightarrow \\left|1\\right&gt;$ $X(\\left|1\\right&gt;) \\rightarrow \\left|0\\right&gt;$ matrix:$\\begin{bmatrix}0 &amp; 1\\1 &amp; 0\\end{bmatrix}$Pauli-Z (Z-gate)Z(or $\\sigma^{z}$ ): Phase Gate$Z(\\left|0\\right&gt;) \\rightarrow \\left|0\\right&gt;$ $Z(\\left|1\\right&gt;) \\rightarrow \\left|-1\\right&gt;$ matrix:$\\begin{bmatrix}1 &amp; 0\\0 &amp; -1\\end{bmatrix}$## Hadamard(H) Creates a 50-50 Superposition From $\\left|0\\right&gt;$ and $\\left|1\\right&gt;$$H(\\left|0\\right&gt;) \\rightarrow \\frac{\\sqrt{0.5}\\left|0\\right&gt; + \\sqrt{0.5}\\left|1\\right&gt;}{\\sqrt{2}}$$H(\\left|1\\right&gt;) \\rightarrow \\frac{\\sqrt{0.5}\\left|0\\right&gt; - \\sqrt{0.5}\\left|1\\right&gt;}{\\sqrt{2}}$matrix:$\\frac{1}{\\sqrt{2}}\\begin{bmatrix}1 &amp; 1\\1 &amp; -1\\end{bmatrix}$CNOT Gate![[Pasted image 20210206195745.png]]if the control qubit is 0, does nothingif the control qubit is 1, flip the target qubitTruth Table            input      Output                  0,0      0,0              0,1      0,1              1,0      1,1              1,1      1,0      Applying Quantum Gates[[5-Quantum Gates#Applying Quantum gates]][^Applying Quantum gates]Why Quantum Computers Faster?![[Pasted image 20210206194547.png]]n Qubits $\\rightarrow 2^{n}$ Superposition statesEach operation acts on all the elements of the superpositionWhat is Quantum Supermacy?A programmable Quantum Device can solve a problem thatno classical computer can solve in any feasible amount of timeTwo Qubits$\\left|00\\right&gt;$  or  $\\left|0\\right&gt;\\left|0\\right&gt;$: qubit A is $\\left|0\\right&gt;$ and qubit B is$\\left|0\\right&gt;$$\\left|01\\right&gt;$  or  $\\left|0\\right&gt;\\left|1\\right&gt;$: qubit A is $\\left|0\\right&gt;$ and qubit B is$\\left|1\\right&gt;$$\\left|10\\right&gt;$  or  $\\left|1\\right&gt;\\left|0\\right&gt;$: qubit A is $\\left|1\\right&gt;$ and qubit B is$\\left|0\\right&gt;$$\\left|11\\right&gt;$  or  $\\left|1\\right&gt;\\left|1\\right&gt;$: qubit A is $\\left|1\\right&gt;$ and qubit B is$\\left|1\\right&gt;$two level systemsexample:QubitsElectron spintwo level system vs. three level system![[Pasted image 20210124220616.png]]4 level system = 2 qubits(stern-gerlach experiment)![[Pasted image 20210124222711.png]]"
+
+    }
+  
+]
