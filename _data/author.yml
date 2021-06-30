@@ -1,6 +1,6 @@
 name: "Abdulaziz M. Al-Dakheel"
 description: >
-    is an Senior High School Student, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
+    is a High School Graduate, Machine Learning Enthusaist, intrested in Quantum Computing & Cryptocurrencies.
 
 email: ml.3z@outlook.com
 links:
@@ -25,8 +25,8 @@ links:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       color: "#0077B5"
-      text: "in/Abdulaziz"
-      url: "https://www.linkedin.com/in/abdulaziz-m-aldakheel-55163518a/"
+      text: "in/AzizALD"
+      url: "https://www.linkedin.com/in/AzizALD/"
 
     - label: "Kaggle"
       icon: "fab fa-kaggle"
@@ -37,9 +37,9 @@ links:
     - label: "Reddit"
       icon: "fab fa-reddit"
       color: "#FF4500"
-      text: "u/3z_ald"
-      url: "https://www.reddit.com/user/3z_ald/"
+      text: "u/i3zM"
+      url: "https://www.reddit.com/user/i3zM"
 
 news:
-    - date: 2020-02-14
-      description: Studying <a href="https://www.qubitbyqubit.org/programs">Quantum Computing 25-week Course</a>.
+    - date: 2021-06-30
+      description: Revisiting precalculus topics to Build deep understanding of the fundamentals, before diving more into Calculus, Linear Algebra, and Probability & Statistics. (Also trying to complete the Quantum Computing Notes)

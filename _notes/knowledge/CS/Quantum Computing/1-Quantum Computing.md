@@ -13,7 +13,7 @@ status: in-progress
 * [[1-Complex Numbers & Complex Exponentials]]
 * [[pands]]
 # 1- Quantum Computing
-{{{{{{{{{{Later}}}}}}}}}}
+LATTTTEEEER
 
 
 
@@ -41,7 +41,7 @@ status: in-progress
 * Classical Bits: 0, 1(off, on)
 * Quantum Bits: $\left|0\right>, \left|1\right>$
 * ket notaiton( $\left|n\right>$ ): ket notation is the thing that indicate that we are talking in quantum not classical 
-* bra notation($\left<n\right|$){{{{{{{{{{Later}}}}}}}}}}
+* bra notation($\left<n\right|$)LATER
 * $\left|0\right> = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \left|1\right> = \begin{pmatrix} 0 \\ 1 \end{pmatrix}$
  * bra$\left<0\right| = \begin{pmatrix} 1 & 0 \end{pmatrix}, \left<1\right| = \begin{pmatrix} 0 & 1 \end{pmatrix}$
 

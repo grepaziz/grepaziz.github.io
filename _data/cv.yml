@@ -1,30 +1,32 @@
 ed:
     - school: "Alkhandaq High School"
       location: "Al-Madinah Al-Munawwarah"
-      date: "9/2018 - Present (6/2021)"
+      date: "9/2018 - 5/2021"
       major: "Diploma of Science."
-      GPA: "99,71%"
+      GPA: "99,78%"
       Qodurat: "98%"
+      Tahsili: "92%"
       Step: "90%"
+      TOEFL: "72"
       courses:
           - list_name: "Computer Science and Related CS Courses"
             list_courses:
                 - course_name: "Mathematics"
-                  course_number: "5"
+                  course_number: "6"
                 - course_name: "Physics"
-                  course_number: "3"
+                  course_number: "4"
                 - course_name: "Biology"
                   course_number: "3"
                 - course_name: "Chemistry"
-                  course_number: "3"
+                  course_number: "4"
                 - course_name: "Islamic Studies"
-                  course_number: "5"
+                  course_number: "6"
                 - course_name: "Computer Science"
                   course_number: "2"
                 - course_name: "Arabic Studies"
                   course_number: "5"
                 - course_name: "English"
-                  course_number: "4"
+                  course_number: "5"
                 - course_name: "Ecology"
                   course_number: "1"
                 - course_name: "Life Skills"
@@ -33,31 +35,44 @@ ed:
                   course_number: "1"
                 - course_name: "Physical Education"
                   course_number: "1"
+                - course_name: "vocational education"
+                  course_number: "1"
 cert:
-    - name: "AI Programming with Python"
-      organization: "Udacity"
-      date: "4/2020"
-      id: "627ERH7"
-      url: "https://confirm.udacity.com/627ERH7"
+    - name: "Qubit by Qubit Introduction to Quantum Computing with IBM Quantum"
+      organization: "The Coding School"
+      date: "5/2021"
+      id: Certificate
+      url: "https://drive.google.com/file/d/1bLy7KK4HfKnbZecUztLxkDc3I-8HLDKb/view"
       topics:
-          - "Introduction to Python"
-          - "Jupyter Notebooks, NumPy, Anaconda, pandas, and Matplotlib"
-          - "Linear Algebra, and Calculus Essentials"
-          - "Neural Networks"
+          - "Foundational Math for Quantum Computing"
+          - "Programming Concepts Necessary for Quantum Computing."
+          - "Quantum Mechanics, Quantum Information, Computation, and Quantum Algorithms."
+
     - name: "Intro to Machine Learning with TensorFlow"
       organization: "Udacity-Misk Academy"
       date: "7/2020"
-      id: "KK4TJCK7"
+      id: "Certificate"
       url: "https://graduation.udacity.com/confirm/KK4TJCK7"
       topics:
           - "Supervised Learning"
           - "Deep Learning"
           - "Unsupervised Learning"
 
+    - name: "AI Programming with Python"
+      organization: "Udacity"
+      date: "4/2020"
+      id: "Certificate"
+      url: "https://confirm.udacity.com/627ERH7"
+      topics:
+          - "Introduction to Python"
+          - "Jupyter Notebooks, NumPy, Anaconda, pandas, and Matplotlib"
+          - "Linear Algebra, and Calculus Essentials"
+          - "Neural Networks"
+
 act:
     - title: "Alkhandaq AI Club"
       location: "Al-Madinah Al-Munawwarah"
-      date: "2/2019 - (Present)"
+      date: "2/2019 - 5/2021"
       position: "Leader"
       details: "Teaching student about Artificial Intelligence by providing courses and study sessions"
     - title: "Alkhandaq Reading Event"
@@ -65,6 +80,26 @@ act:
       date: "11/2019"
       position: "Organizer"
       details: "Worked with a team to organize reading event on famous shopping center."
+
+    - title: "Participated with the Organization club in school"
+      location: "Al-Madinah Al-Munawwarah"
+      date: "10/23/2019 - 03/17/2020"
+      position: "Organizer"
+      details: "Organize different school events, such as National day, Honoring Ceremony, and more.
+we also Organized a Reading day event at one of the most popular Shopping centers in the city
+"
+    
+    - title: "Participate as a speaker in a stand-up talking"
+      location: "Al-Madinah Al-Munawwarah"
+      date: "12/12/2019 - 12/12/2019"
+      position: "participant - Speaker"
+      details: "at the school stage in front of all the students and school employees, and there was a judgement Commission,
+I managed to get to the finals and I got the 7th rank.
+
+I gave a talk about Ai, its consequences on jobs and I referenced amazon go as an example.
+
+it was a very good experience where I tried to fight the public speaking fear"
+
 
 skills:
     - title: "Data Analysis"
@@ -83,8 +118,19 @@ skills:
             proficient: "0"
     - title: "Web/Mobile Development"
       tools:
-          - title: "Node.js"
+          - title: "HTML"
             proficient: "0"
+          - title: "CSS"
+            proficient: "0"
+          - title: "Javascript"
+            proficient: "1"
+
+    - title: "Scientific Computing"
+      tools:
+          - title: "Qiskit"
+            proficient: "2"
+
+
     - title: "Programming/Scripting Languages"
       tools:
           - title: "Python"

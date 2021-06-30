@@ -1,6 +1,7 @@
 ## Background
 
-Currently, Abdulaziz is an Senior High School student, in Al-Khandaq High School. He is the Leader of AI Club (known as Infinity AI now) for 2019-Present.
+Currently, Abdulaziz is a High School Graduate, he Graduated from Al-Khandaq High School in may, 2021. He's trying to start his career in Technology, especially Machine learning.
+
 
 <!-- FIXME: not responsive -->
 <div class="calendar">
